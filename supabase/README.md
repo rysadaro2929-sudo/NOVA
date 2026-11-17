@@ -1,3 +1,3 @@
-# Supabase Edge Functions
+# Supabase migrations
 
-Server-side integrations such as AI proxying, notifications, moderation and payment workflows belong here. Store secrets only in Supabase Function Secrets; never in browser JavaScript.
+Place ordered SQL migration files here (for example `202611170001_add_profiles.sql`). Apply and test migrations in a development project before production.
